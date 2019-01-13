@@ -1,3 +1,5 @@
+// yes yes yes here you are ..
+
 function justInvoke(fn) {
   return fn();
 }
